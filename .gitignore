@@ -1,0 +1,13 @@
+.venv
+
+.bash_history
+.conda/
+.envrc
+.gitconfig
+.local/
+.rustup/
+.viminfo
+set_env.sh
+
+Library
+
