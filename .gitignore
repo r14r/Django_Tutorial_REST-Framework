@@ -7,6 +7,8 @@
 .local/
 .rustup/
 .viminfo
+.lesshst
+
 set_env.sh
 
 .config
