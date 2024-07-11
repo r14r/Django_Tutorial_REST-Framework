@@ -9,5 +9,7 @@
 .viminfo
 set_env.sh
 
+.config
+
 Library
 
