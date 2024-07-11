@@ -1,0 +1,22 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".cache": true,
+        ".bash_history": true,
+        ".conda": true,
+        ".envrc": true,
+        ".gitignore": true,
+        ".local": true,
+        ".rustup": true,
+        ".venv": true,
+        ".viminfo": true,
+        ".vscode": true,
+        "Library": true
+    },
+    "explorerExclude.backup": {}
+}
