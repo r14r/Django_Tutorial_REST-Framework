@@ -10,12 +10,12 @@
         ".bash_history": true,
         ".conda": true,
         ".envrc": true,
-        ".gitignore": true,
+        ".gitignore": false,
         ".local": true,
         ".rustup": true,
         ".venv": true,
         ".viminfo": true,
-        ".vscode": true,
+        ".vscode": false,
         "Library": true
     },
     "explorerExclude.backup": {}

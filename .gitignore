@@ -1,17 +1,22 @@
 .venv
 
 .bash_history
-.conda/
+.cache
+.conda
+.config
 .envrc
+.git
 .gitconfig
-.local/
-.rustup/
-.viminfo
+.gitignore
 .lesshst
+.local
+.rustup
+
+.viminfo
+.vscode
+
+Library
 
 set_env.sh
 
-.config
-
-Library
 
